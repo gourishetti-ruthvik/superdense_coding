@@ -110,7 +110,7 @@ Demonstrate applications in IoT, healthcare, and finance
 Show performance and security analytics
 
 ## 📂 Project Structure
-
+```
 superdense_coding/                    # Your main project folder
 │
 ├── main_demo_simplified.py           # MAIN FILE - Run this one!
@@ -130,7 +130,7 @@ superdense_coding/                    # Your main project folder
 └── analysis_tools/                   # Performance analysis
     ├── __init__.py                   # (empty file)
     └── performance_analyzer.py       # Performance metrics
-
+```
 
 ## 📌 Notes
 
