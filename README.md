@@ -1,7 +1,5 @@
 # AQVH 2025 - 8D Quantum Superdense Coding Suite
 
-![Quantum Icon](https://img.icons8.com/ios/50/000000/quantum-physics.png)
-
 ## 🚀 Overview
 
 This project demonstrates a **high-dimensional quantum superdense coding system** using **2D, 4D, and 8D Bell states**.  
