@@ -390,7 +390,7 @@ def main():
         """)
 
     # Innovation showcase
-    st.header("🏆 Why Our Solution Wins AQVH 2025")
+    # st.header("🏆 Why Our Solution Wins AQVH 2025")
 
     innovation_col1, innovation_col2 = st.columns(2)
 
@@ -429,22 +429,22 @@ def main():
         """)
 
     # Call to action
-    st.header("🎯 Next Steps for AQVH Success")
+    # st.header("🎯 Next Steps for AQVH Success")
 
-    st.info("""
-    **📋 Hackathon Presentation Strategy:**
-    1. **Live Demo:** Show this dashboard with real-time protocol execution
-    2. **Technical Deep-dive:** Explain 8D Bell state generation and measurement
-    3. **Innovation Emphasis:** Highlight 245% improvement and patent potential
-    4. **Application Demos:** IoT, medical, and financial use cases
-    5. **Market Opportunity:** $12.6B quantum communication market by 2027
-    """)
+    # st.info("""
+    # **📋 Hackathon Presentation Strategy:**
+    # 1. **Live Demo:** Show this dashboard with real-time protocol execution
+    # 2. **Technical Deep-dive:** Explain 8D Bell state generation and measurement
+    # 3. **Innovation Emphasis:** Highlight 245% improvement and patent potential
+    # 4. **Application Demos:** IoT, medical, and financial use cases
+    # 5. **Market Opportunity:** $12.6B quantum communication market by 2027
+    # """)
 
     # Footer with team info
     st.markdown("---")
     st.markdown("""
-    <div style='text-align: center; padding: 20px; background: #f0f2f6; border-radius: 10px;'>
-        <h3 style='color: #1e3c72; margin: 0;'>🏆 AQVH 2025 Team Submission</h3>
+    <div style='text-align: center; padding: 20px; background: orange; border-radius: 10px;'>
+         <!-- <h3 style='color: #1e3c72; margin: 0;'>🏆 AQVH 2025 Team Submission</h3>-->
         <h4 style='color: #2a5298; margin: 10px 0;'>Beyond Classical Limits: Revolutionary 8D Superdense Coding Protocol</h4>
         <p style='margin: 10px 0;'><strong>Innovation:</strong> 3.459 bits channel capacity • <strong>Advantage:</strong> 245% improvement • <strong>Status:</strong> Patent-pending</p>
         <p style='color: #666; margin: 0;'><em>Transforming quantum communication for the post-quantum era</em></p>
