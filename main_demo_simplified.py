@@ -16,7 +16,7 @@ from datetime import datetime
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="AQVH 2025 - Superdense Coding",
+    page_title="Superdense Coding",
     page_icon="🔬",
     layout="wide"
 )
@@ -160,14 +160,14 @@ def main():
     # Title and header with custom styling
     st.markdown("""
     <div style='text-align: center; padding: 20px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 10px; margin-bottom: 20px;'>
-        <h1 style='color: white; margin: 0;'>🚀 Revolutionary Quantum Superdense Coding System</h1>
-        <p style='color: #e0e0e0; margin: 10px 0 0 0; font-size: 1.2em;'>AQVH 2025 - Breaking the Classical Communication Barrier</p>
+        <h1 style='color: white; margin: 0;'>Quantum Superdense Coding System</h1>
+        <p style='color: #e0e0e0; margin: 10px 0 0 0; font-size: 1.2em;'>Breaking the Classical Communication Barrier</p>
     </div>
     """, unsafe_allow_html=True)
 
     # Key innovation highlight
     st.info("""
-    🌟 **Revolutionary Innovation:** Our 8D superdense coding protocol achieves **3.459 bits** 
+    *Idea Implementation:* Our 8D superdense coding protocol achieves **3.459 bits** 
     channel capacity using a single quantum particle - a **245% improvement** over classical limits!
     """)
 
