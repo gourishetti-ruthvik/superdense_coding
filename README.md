@@ -107,7 +107,7 @@ Highlight 3.459-bit channel capacity and 245% improvement
 
 Demonstrate applications in IoT, healthcare, and finance
 
-Show performance and security analytics
+Show performance and security analytics.
 
 ## 📂 Project Structure
 ```
@@ -134,8 +134,8 @@ superdense_coding/                    # Your main project folder
 
 ## 📌 Notes
 
-All simulations; no real quantum hardware required
+All simulations; no real quantum hardware required.
 
-Fidelity and security metrics are probabilistic simulations
+Fidelity and security metrics are probabilistic simulations.
 
-Designed for educational, research, and presentation purposes
+Designed for educational, research, and presentation purposes.
