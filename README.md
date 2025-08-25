@@ -139,3 +139,4 @@ All simulations; no real quantum hardware required.
 Fidelity and security metrics are probabilistic simulations.
 
 Designed for educational, research, and presentation purposes.
+
