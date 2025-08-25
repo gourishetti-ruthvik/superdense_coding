@@ -1,0 +1,15 @@
+# Core Quantum Computing Framework
+qiskit>=1.0.0
+qiskit-aer>=0.14.0
+
+# Scientific Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web Interface and Visualization
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# Development Tools
+pandas>=2.0.0
+matplotlib>=3.6.0
